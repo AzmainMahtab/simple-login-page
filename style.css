@@ -1,0 +1,86 @@
+body, html{
+	background-image: linear-gradient(to bottom left, #00ff99 0%, #00cc00 157%);
+	background-repeat: no-repeat;
+	height: 100%;	
+	font-family: sans-serif;
+}
+
+.container {
+	max-width: 450px;
+}
+
+#login-box {
+	padding-top: 350px;
+}
+
+#form-box {
+	padding-top:50px;
+}
+
+a{
+	color: #25c217;
+}
+
+a:hover {
+	color: #2d7826;
+	text-decoration: none;
+}
+
+#input-id {
+	max-width:450px;
+}
+
+.form-class input {
+	
+	width: 80%;
+	height: 50px;
+	padding-left: 8px;
+	background-color: #e6e6e3;
+	border: none;
+	
+}
+
+.form-class input:focus {
+	outline:none;
+}
+
+#form-paragraph {
+	padding-top: 8px;
+}
+
+#form-button-id {
+	background-color: #62bf06;
+	color: white;
+}
+
+#form-button-id:hover {
+	background-color: #438205;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
